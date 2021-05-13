@@ -18,7 +18,7 @@ Projeto demonstrativo apenas para pratica de front end
 
 ###  Demonstração 💻
 
-![gif](https://github.com/katiacih/viajenow/tree/main/res/viajenow.gif)
+![gif](https://github.com/katiacih/viajenow/blob/main/res/viajenow.gif)
 
 
 #  Autor 👩🏻‍💻
